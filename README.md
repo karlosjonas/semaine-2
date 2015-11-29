@@ -8,7 +8,7 @@ Dans Unit 6: Le positionnement des éléments CSS Element exercice 23 je dois da
 
 https://www.codecademy.com/fr/users/mrthermos/achievements
 
-<!doctype html>
+<!DOCTYPE html>
   <html lang="fr">
     <head>
       <meta charset="utf-8">
